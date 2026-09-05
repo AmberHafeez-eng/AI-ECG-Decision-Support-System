@@ -1,4 +1,3 @@
-<img width="1020" height="690" alt="ECG_Diagnosis_Interface" src="https://github.com/user-attachments/assets/c174c794-9136-4747-a1cf-71e372ddfc0b" /># AI-Based ECG Decision Support System for Heart Disease Diagnosis
 
 ## Overview
 
