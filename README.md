@@ -116,8 +116,7 @@ The project received recognition and a cash award of **PKR 5000** for demonstrat
 
 ## ECG Diagnosis Interface
 
-![ECG Diagnosis Interface](screenshots/ECG_Diagnosis_Interface..jpeg…)
-
+![ECG Diagnosis Interface](screenshots/ECG_Diagnosis_Interface..jpeg)
 
 ---
 
