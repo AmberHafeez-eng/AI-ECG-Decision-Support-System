@@ -106,42 +106,44 @@ The MATLAB implementation was developed under faculty supervision.
 The project received recognition and a cash award of **PKR 5000** for demonstrating an AI-based ECG disease diagnosis system.
 
 ---
-
 # Project Screenshots
 
 ## Project Setup
 
-![Project Setup](Project_Setup.jpeg)
+![Project Setup](Screenshots/Project_Setup.jpeg)
 
 
 ## ECG Diagnosis Interface
 
-![ECG Diagnosis Interface](ECG_Diagnosis_Interface.jpeg)
+![ECG Diagnosis Interface](Screenshots/ECG_Diagnosis_Interface.jpeg)
 
 
 ## Arrhythmia Diagnosis
 
-![Arrhythmia Diagnosis](Arrhythmia_Diagnosis.jpeg)
+![Arrhythmia Diagnosis](Screenshots/Arrhythmia_Diagnosis.jpeg)
 
 
 ## Signal Processing
 
-![Signal Processing](Signal_Processing.jpeg)
+![Signal Processing](Screenshots/Signal_Processing.jpeg)
 
 
 ## ECG Peak Detection
 
-![Peak Detection](Peak_Detection.jpeg)
+![Peak Detection](Screenshots/Peak_Detection.jpeg)
 
 
 ## ECG Segmentation
 
-![ECG Segmentation](ECG_Segmentation.jpeg)
+![ECG Segmentation](Screenshots/ECG_Segmentation.jpeg)
 
 
 ## Expo Demonstration
 
-![Expo Achievement](Expo_Achievement.jpeg)
+![Expo Achievement](Screenshots/Expo_Achievement.jpeg)
+
+
+
 
 
 ---
